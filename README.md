@@ -2,6 +2,7 @@
 - 👀 I’m interested in Mobile Devolopment & Flutter 
 - 🌱 I’m currently learning Flutter & Dart
 - 💞️ I’m looking to collaborate on Java
+- I'm working on design pattern
 - 📫 How to reach me ...
 
 <!---
